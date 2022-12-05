@@ -1,0 +1,18 @@
+body {
+    background: url("https://applemagazine.com/wp-content/uploads/2020/09/AppleMagazine-iPad-Air-Wallpaper-2020-4.png");
+    background-size: 100%;
+    background-position: center;
+}
+
+div {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.7);
+    width: 300px;
+    height: 300px;
+    margin: 200px auto;
+    filter: contrast(99999999999999%), brightness(1000000%), blur(1.2px);
+}
